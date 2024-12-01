@@ -296,7 +296,7 @@ GEM
     websocket-driver (0.7.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
-    will_paginate (3.3.1)
+    will_paginate (4.0.0)
     zeitwerk (2.6.0)
 
 PLATFORMS
@@ -336,7 +336,7 @@ DEPENDENCIES
   simplecov
   spring
   tzinfo-data
-  will_paginate (~> 3.3)
+  will_paginate (~> 4.0)
 
 RUBY VERSION
    ruby 3.1.0p0
